@@ -1,4 +1,5 @@
 # op.gg-style
+League Of Legends only
 https://userstyles.world/style/2167/op-gg-dark-mode-with-options
 
 ![](https://github.com/Janmm14/op.gg-style/raw/main/dark_homepage.png)
